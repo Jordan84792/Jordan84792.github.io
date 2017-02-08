@@ -1,11 +1,3 @@
-/*
-HTML 5 Template Name: Basic 85
-File: Layout CSS
-Author: OS Templates
-Author URI: http://www.os-templates.com/
-Licence: <a href="http://www.os-templates.com/template-terms">Website Template Licence</a>
-*/
-
 html{overflow-y:scroll;} /* Forces a scrollbar when the viewport is larger than the websites content - CSS3 */
 
 body{margin:0; padding:0; font-size:13px; font-family:Georgia, "Times New Roman", Times, serif; color:#919191; background-color:#232323;}
@@ -96,25 +88,6 @@ input, textarea, select{font-size:12px; font-family:Georgia,"Times New Roman",Ti
 
 #container #shout{padding:0 0 20px 0; border-bottom:1px solid #DEDEDE; text-align:center;}
 #container #shout p{font-size:20px; margin:0; padding:0; line-height:1.8em;}
-
-/* ------Main Content-----*/
-
-#container #homepage{display:block; width:100%; line-height:1.6em;}
-#container #homepage .spacer{display:block; width:100%; height:30px; margin:0; padding:0; clear:both;}
-
-#container #homepage #latest{margin-bottom:50px;}
-#container #homepage #latest article{}
-#container #homepage #latest article figure{}
-#container #homepage #latest article figure ul{margin:0; padding:0; list-style:none;}
-#container #homepage #latest article figure ul li{margin-bottom:20px;}
-#container #homepage #latest article figure ul li img{padding:4px; border:1px solid #D6D6D6; text-align:center;}
-#container #homepage #latest article figure figcaption{display:block; width:100%; clear:both; padding:0 0 20px 0; border-bottom:1px solid #DEDEDE; font-weight:bold; text-transform:uppercase; text-align:right;}
-
-#container #homepage #services{}
-#container #homepage #services article{}
-#container #homepage #services figure{display:inline; float:left;}
-#container #homepage #services strong{float:left; margin:8px 0 0 10px; padding:0; font-size:14px; font-weight:bold; text-transform:uppercase;}
-#container #homepage #services p{display:block; margin:0; padding:5px 0 0 0; clear:both; line-height:1.6em;}
 
 /*----------------------------------------------Footer-------------------------------------*/
 
