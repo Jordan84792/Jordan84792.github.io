@@ -2,17 +2,24 @@
 @import url("https://jordan84792.github.io/PlugDJusers.css");
 
 
-/* --------------------Arkham Bot-------------------- */
-
-#chat [data-cid^="22670452-"] span.un.clickable {
-    color: rgba(190, 145, 19, 1) !important;}
+/* -------------------- Preview Video -------------------- */
+.dialog {
+    background: rgba(0, 0, 0, 0.42);}
+#dialog-preview .dialog-frame .button.submit {
+    color: #fff;}
+#dialog-preview .dialog-frame .button.submit {
+    background: 0 !important;}
+#chat .message:nth-child(2n+1),
+#chat .mention:nth-child(2n+1),
+#chat .skip:nth-child(2n+1),
+#chat .moderation:nth-child(2n+1),
+#chat .emote:nth-child(2n+1),
+#chat .update:nth-child(2n+1),
+#chat .welcome:nth-child(2n+1) {
+    overflow: hidden;}
 #chat [data-cid^="22670452-"].emote {
-    background: rgba(51, 46, 48, 0.58) !important;
-    border-left: rgba(134, 114, 39, 0.49) 3px solid !important;}
-#chat [data-cid^="22670452-"].emote .timestamp {
-    color: #A993C7 !important;}
-#chat [data-cid^="22670452-"].emote .text {
-    color: #f7f7f7 !important;}
-#chat [data-cid^="22670452-"] .icon,
-#chat .id-22670452 .icon {
-    display:none !important;}
+    overflow: hidden;}
+
+
+
+
