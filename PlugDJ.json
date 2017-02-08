@@ -3,6 +3,7 @@
     "author": "Jøґ∂αη†♄εℙαηḓα",
     "icon": null,
     "css": null,
+    
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -13,6 +14,7 @@
         "allowShowingMehs": true,
         "forceSmartVote": false
     },
+    
     "ccc": {
         "admin": null,
         "ambassador": null,
@@ -26,6 +28,7 @@
         "friend": null,
         "user": null
     },
+    
     "images": {
         "background": null,
         "playback": null,
@@ -39,6 +42,7 @@
         "subscriber": null,
         "silversubscriber": null
     },
+    
     "emotes": {
     	"emote_name": null
     }
