@@ -1,8 +1,8 @@
 {
     "room": "JordanThePanda",
     "author": "JordanThePanda",
-    "icon": null,
-    "css": null,
+    "icon": "http://i.imgur.com/afKevUx.png",
+    "css": "https://jordan84792.github.io/PlugDJ.css",
     
     "rules": {
         "allowAutorespond": true,
