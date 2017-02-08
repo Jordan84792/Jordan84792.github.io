@@ -2,24 +2,59 @@
 @import url("https://jordan84792.github.io/PlugDJusers.css");
 
 
-/* -------------------- Preview Video -------------------- */
-.dialog {
-    background: rgba(0, 0, 0, 0.42);}
-#dialog-preview .dialog-frame .button.submit {
-    color: #fff;}
-#dialog-preview .dialog-frame .button.submit {
-    background: 0 !important;}
-#chat .message:nth-child(2n+1),
-#chat .mention:nth-child(2n+1),
-#chat .skip:nth-child(2n+1),
-#chat .moderation:nth-child(2n+1),
-#chat .emote:nth-child(2n+1),
-#chat .update:nth-child(2n+1),
-#chat .welcome:nth-child(2n+1) {
-    overflow: hidden;}
-#chat [data-cid^="22670452-"].emote {
-    overflow: hidden;}
+/* -------------------- Interface -------------------- */
 
+/* Interface */
+#footer-user .info {
+    background: rgba(0, 0, 0, 0.70);}
+#dashboard {
+    background: rgba(0, 0, 0, 0.5) !important;}
+.tab-menu button.selected {
+    background: linear-gradient(hsl(40, 61%, 54%), hsl(40, 59%, 31%)) !important;}
+.tab-menu button:hover {
+    background: linear-gradient(hsla(40, 53%, 36%, 1), hsl(40, 59%, 31%));}
+.tab-menu button {
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 15px;}
+#rcs-progress-container {
+    background-color: #453706 !important;}
+#rcs-progress-container .bar {
+    background: linear-gradient(hsl(40, 65%, 56%), hsla(42, 62%, 30%, 0.95)) !important;}
+#user-menu .item.selected {
+    background: linear-gradient(hsl(40, 61%, 54%), hsl(40, 59%, 31%));}
+#playlist-menu .menu .row .count {
+    color: #d09d39;}
+#user-view {
+    background: rgba(17, 19, 23, 0.8) !important;}
+#user-menu {
+    background: rgba(28, 31, 37, 0) !important;}
+#rs-skip-button {
+    background: rgba(28, 31, 37, 0) !important;}
+#history-button {
+    background: rgba(28, 31, 37, 0) !important;}
+#dj-button {
+    background: rgba(34, 34, 36, 0.59);
+    border-radius: 8px;}
+#vote .top {
+    background: rgba(34, 34, 36, 0.4) !important;}
+#room .app-right {
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.70) 0, rgba(0, 0, 0, 1) 100%);}
+#room-host,
+#room-name {
+    left: 105px;}
+#room-bar .icon-room {
+    top: 8px;
+    left: 10px;}
+i.icon.icon-room {
+    width: 130px;
+    height: 50px;}
+.icon-room {
+    background: url(http://i.imgur.com/KkMZsiH.png?1) no-repeat;
+    width: 0px;
+    height: 0px;
+    background-size: 65%;}
+.app-header {
+    background: rgba(28, 31, 37, 0.59);}
 
 
 
