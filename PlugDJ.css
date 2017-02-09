@@ -6,7 +6,7 @@
 
 /* Interface */
 #footer-user .info {
-    background: rgba(0, 0, 0, 0.8);}
+    background: rgba(21, 27, 84);}
 #dashboard {
     background: rgba(0, 0, 0, 0.5) !important;}
 .tab-menu button.selected {
@@ -14,7 +14,7 @@
 .tab-menu button:hover {
     background: linear-gradient(hsla(40, 53%, 36%, 1), hsl(40, 59%, 31%));}
 .tab-menu button {
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(21, 27, 84);
     border-radius: 15px;}
 #rcs-progress-container {
     background-color: #453706 !important;}
@@ -25,7 +25,7 @@
 #playlist-menu .menu .row .count {
     color: #d09d39;}
 #user-view {
-    background: rgba(17, 19, 23, 0.8) !important;}
+    background: rgba(21, 27, 84) !important;}
 #user-menu {
     background: rgba(28, 31, 37, 0) !important;}
 #rs-skip-button {
@@ -54,6 +54,6 @@ i.icon.icon-room {
     height: 0px;
     background-size: 65%;}
 .app-header {
-    background: rgba(28, 31, 37, 0.59);}
+    background: rgba(21, 27, 84);}
 
 
