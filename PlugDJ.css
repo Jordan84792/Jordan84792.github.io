@@ -6,15 +6,15 @@
 
 /* Interface */
 #footer-user .info {
-    background: rgba(0, 20, 204, 0.75);}
+    background: rgba(0, 0, 0, 0.8);}
 #dashboard {
-    background: rgba(0, 20, 204, 0.75) !important;}
+    background: rgba(0, 0, 0, 0.5) !important;}
 .tab-menu button.selected {
     background: linear-gradient(hsl(40, 61%, 54%), hsl(40, 59%, 31%)) !important;}
 .tab-menu button:hover {
     background: linear-gradient(hsla(40, 53%, 36%, 1), hsl(40, 59%, 31%));}
 .tab-menu button {
-    background: rgba(0, 20, 204, 0.75);
+    background: rgba(0, 0, 0, 0.5);
     border-radius: 15px;}
 #rcs-progress-container {
     background-color: #453706 !important;}
@@ -25,20 +25,20 @@
 #playlist-menu .menu .row .count {
     color: #d09d39;}
 #user-view {
-    background: rgba(0, 20, 204, 0.75) !important;}
+    background: rgba(17, 19, 23, 0.8) !important;}
 #user-menu {
-    background: rgba(0, 20, 204, 0.75) !important;}
+    background: rgba(28, 31, 37, 0) !important;}
 #rs-skip-button {
-    background: rgba(0, 20, 204, 0.75) !important;}
+    background: rgba(28, 31, 37, 0) !important;}
 #history-button {
-    background: rgba(20, 20, 204, 0.75) !important;}
+    background: rgba(28, 31, 37, 0) !important;}
 #dj-button {
-    background: rgba(0, 20, 204, 0.75);
+    background: rgba(34, 34, 36, 0.59);
     border-radius: 8px;}
 #vote .top {
-    background: rgba(0, 20, 204, 0.75) !important;}
+    background: rgba(34, 34, 36, 0.4) !important;}
 #room .app-right {
-    background: linear-gradient(to right, rgba(0, 20, 204, 0.75) 0, rgba(0, 20, 204, 0.75) 100%);}
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.70) 0, rgba(0, 0, 0, 1) 100%);}
 #room-host,
 #room-name {
     left: 105px;}
@@ -54,7 +54,6 @@ i.icon.icon-room {
     height: 0px;
     background-size: 65%;}
 .app-header {
-    background: rgba(0, 20, 204, 0.75);}
-
+    background: rgba(28, 31, 37, 0.59);}
 
 
