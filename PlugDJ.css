@@ -28,20 +28,20 @@ i.icon.icon-room {
 /* App-Header */
 
 .app-header{
-    background-color: rgba(139, 0, 0, 1);
+    background-color: rgba(53, 6, 8, 1);
 }
 #rs-skip-button {
-   background-color: rgba(139, 0, 0, 1);
+   background-color: rgba(53, 6, 8, 1)
 }
 
 #history-button{
-    background-color: rgba(139, 0, 0, 1);
+    background-color: rgba(53, 6, 8, 1)
 }
 #chat-button{
-   background-color: rgba(139, 0, 0, 1);
+   background-color: rgba(53, 6, 8, 1)
 }
 .button{
-   background-color: rgba(139, 0, 0, 1);
+   background-color: rgba(53, 6, 8, 1)
 }
 
 /* App Header Text */
@@ -56,5 +56,5 @@ i.icon.icon-room {
 /* Footer */
 
 #footer {
-  background-color: rgba(139, 0, 0, 1);
+  background-color: rgba(53, 6, 8, 1)
 }
