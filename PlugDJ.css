@@ -34,25 +34,20 @@ i.icon.icon-room {
 /* App-Header */
 
 .app-header{
-  background: linear-gradient(to bottom, rgba(0, 255, 255, .75) 0, rgba(255, 255, 255, .75) 100%),
-  url(https://d1yn1kh78jj1rr.cloudfront.net/previews2/greyandwhitepolkadots-05-091815-575.jpg) repeat-x;
+    background-color: rgba(255, 0, 0, 0.3);
 }
 #rs-skip-button {
-   background: linear-gradient(to bottom, rgba(0, 255, 255, .75) 0, rgba(255, 255, 255, .75) 100%),
-  url(https://d1yn1kh78jj1rr.cloudfront.net/previews2/greyandwhitepolkadots-05-091815-575.jpg) repeat-x;
+    background-color: rgba(255, 0, 0, 0.3);
 }
 
 #history-button{
-  background: linear-gradient(to bottom, rgba(0, 255, 255, .75) 0, rgba(255, 255, 255, .75) 100%),
-  url(https://d1yn1kh78jj1rr.cloudfront.net/previews2/greyandwhitepolkadots-05-091815-575.jpg) repeat-x;
+    background-color: rgba(255, 0, 0, 0.3);
 }
 #chat-button{
-  background: linear-gradient(to bottom, rgba(0, 255, 255, .75) 0, rgba(255, 255, 255, .75) 100%),
-  url(https://d1yn1kh78jj1rr.cloudfront.net/previews2/greyandwhitepolkadots-05-091815-575.jpg) repeat-x;
+   background-color: rgba(255, 0, 0, 0.3);
 }
 .button{
-  background: linear-gradient(to bottom, rgba(0, 255, 255, .75) 0, rgba(255, 255, 255, .75) 100%),
-  url(https://d1yn1kh78jj1rr.cloudfront.net/previews2/greyandwhitepolkadots-05-091815-575.jpg) repeat-x;
+   background-color: rgba(255, 0, 0, 0.3);
 }
 
 /* App Header Text */
@@ -67,6 +62,5 @@ i.icon.icon-room {
 /* Footer */
 
 #footer {
-  background: linear-gradient(to bottom, rgba(0, 255, 255, .75) 0, rgba(255, 255, 255, .75) 100%),
-  url(https://d1yn1kh78jj1rr.cloudfront.net/previews2/greyandwhitepolkadots-05-091815-575.jpg) repeat-x;
+  background-color: rgba(255, 0, 0, 0.3);
 }
