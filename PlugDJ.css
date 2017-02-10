@@ -1,7 +1,8 @@
 
 @import url("https://jordan84792.github.io/PlugDJusers.css");
 @import url("https://fonts.googleapis.com/css?family=Orbitron");
-
+@import url("https://fonts.googleapis.com/css?family=Squada+One");
+@import url("https://fonts.googleapis.com/css?family=Luckiest+Guy");
 /* ------------------------------ Interface ------------------------------ */
 
 /* Room Icons */
@@ -53,10 +54,22 @@ i.icon.icon-room {
 /* App Header Text */
 
 #room-name .bar-value {
-    color: black;
+    color: white;
     font-weight: bold;
-    font-family: 'Orbitron', Orbitron-Regular;}
-
+    font-family: 'Luckiest Guy', LuckiestGuy-Regular;}
+#now-playing-media {
+   
+}
+#now-playing-dj .dark-label {
+    color: grey;
+    font-weight: bold;
+    font-family: 'Squada One', SquadaOne-Regular;}
+}
+#now-playing-dj .username {
+     color: white;
+    font-weight: bold;
+    font-family: 'Squada One', SquadaOne-Regular;}   
+}
 
 
 /* Footer */
