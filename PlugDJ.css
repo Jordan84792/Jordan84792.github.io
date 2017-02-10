@@ -35,20 +35,20 @@ i.icon.icon-room {
 /* App-Header */
 
 .app-header{
-    background: linear-gradient(to bottom, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);
+    background: rgb(9, 9, 40,.75);
 }
 #rs-skip-button {
-   background: linear-gradient(to bottom, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%) !important;
+   background: rgb(9, 9, 40,.75);
 }
 
 #history-button{
-   background: linear-gradient(to bottom, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);
+   background: rgb(9, 9, 40,.75);
 }
 #chat-button{
-   background: linear-gradient(to bottom, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);
+   background: rgb(9, 9, 40,.75);
 }
 .button{
-  background: linear-gradient(to bottom, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);
+  background: rgb(9, 9, 40,.75);
 }
 #button .icon.icon-volume-on
 #button .icon.icon-volume-off{
@@ -66,20 +66,20 @@ i.icon.icon-room {
 /* Chat */
 
 #room .app-right {
-    background: linear-gradient(to right, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);!important
+    background: rgb(9, 9, 40,.75);!important
 }
 #room .app-right .cm.log {
-    background: linear-gradient(to right, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);!important
+    background: rgb(9, 9, 40,.75);!important
 }
 #room .app-right .cm.message {
-    background: linear-gradient(to right, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);!important 
+    background: rgb(9, 9, 40,.75);!important 
 }
 #msg{
-    background: linear-gradient(to right, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);!important
+    background: rgb(9, 9, 40,.75);!important
 }
 #chat-input {
     border-radius: 25px;
-    background: rgba(53,6,8,1); !important
+    background: rgb(20, 20, 91,.75) !important
     padding: 20px;
     width: 325px;
     height: 20px;        
@@ -87,7 +87,7 @@ i.icon.icon-room {
 /* Footer */
 
 #footer {
-  background: linear-gradient(to bottom, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);
+  background: rgb(9, 9, 40,.75);
 }
 
     
