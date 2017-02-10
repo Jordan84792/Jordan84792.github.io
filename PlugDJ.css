@@ -24,9 +24,8 @@ i.icon.icon-room {
     height: 0px;
     background-size: 65%;
  }
-.app-header{
-  width: 100px;
-  height: 100px;
-  background: linear-gradient(rgba(0,255,255,.5), rgba(255,255,255,.5)), 
+
+.appheader{
+  background: linear-gradient(to bottom, rgba(0, 255, 255, .75) 0, rgba(255, 255, 255, .75) 100%),
   url(https://d1yn1kh78jj1rr.cloudfront.net/previews2/greyandwhitepolkadots-05-091815-575.jpg) repeat-y;
 }
