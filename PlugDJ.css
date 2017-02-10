@@ -3,6 +3,11 @@
 @import url("https://fonts.googleapis.com/css?family=Orbitron");
 
 /* -------------------- Interface -------------------- */
+/* Room Icons */
+
+.icon {
+    background-image: url(https://cdn.tfs-network.com/plug/img/icons.png)
+}
 
 /* Room Icon */
 
