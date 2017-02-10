@@ -10,11 +10,11 @@
 #room-name {
     left: 105px;}
 #room-bar .icon-room {
-    top: 8px;
+    top: 6px;
     left: 10px;}
 i.icon.icon-room {
     width: 130px;
-    height: 50px;}
+    height: 40px;}
 .icon-room {
     background: url(http://i.imgur.com/U5f0EUR.png) no-repeat;
     width: 0px;
