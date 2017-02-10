@@ -65,10 +65,14 @@ i.icon.icon-room {
 
 /* Chat */
 
-#room .app-right 
-.cm.log{
+#room .app-right {
     background: linear-gradient(to right, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);!important
 }
+#room .app-right
+.cm.log {
+    background: linear-gradient(to right, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);!important
+}
+    
 /* Footer */
 
 #footer {
