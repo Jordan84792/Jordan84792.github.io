@@ -6,9 +6,9 @@
 
 /* Room Icons */
 
-.icon {
+/*.icon {
     background-image: url(https://cdn.tfs-network.com/plug/img/icons.png)
-}
+} */
 
 /* Room Icon */
 
@@ -24,24 +24,30 @@ i.icon.icon-room {
     width: 130px;
     height: 40px;
 }
+.icon-room {
+   background: url(http://i.imgur.com/U5f0EUR.png) no-repeat;
+   width: 0px;
+   height: 0px;
+   background-size: 65%;
+ }
 
 /* App-Header */
 
 .app-header{
-    background-color: rgba(53, 6, 8, 1);
+    background: -moz-radial-gradient(50% 50%, ellipse, rgb(152,0,0), rgb(53,6,8));
 }
 #rs-skip-button {
-   background-color: rgba(53, 6, 8, 1)
+   background: -moz-radial-gradient(50% 50%, ellipse, rgb(152,0,0), rgb(53,6,8));
 }
 
 #history-button{
-    background-color: rgba(53, 6, 8, 1)
+    background: -moz-radial-gradient(50% 50%, ellipse, rgb(152,0,0), rgb(53,6,8));
 }
 #chat-button{
-   background-color: rgba(53, 6, 8, 1)
+   background: -moz-radial-gradient(50% 50%, ellipse, rgb(152,0,0), rgb(53,6,8));
 }
 .button{
-   background-color: rgba(53, 6, 8, 1)
+  background: -moz-radial-gradient(50% 50%, ellipse, rgb(152,0,0), rgb(53,6,8));
 }
 
 /* App Header Text */
@@ -56,5 +62,5 @@ i.icon.icon-room {
 /* Footer */
 
 #footer {
-  background-color: rgba(53, 6, 8, 1)
+  background: -moz-radial-gradient(50% 50%, ellipse, rgb(152,0,0), rgb(53,6,8));
 }
