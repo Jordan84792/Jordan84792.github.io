@@ -29,15 +29,15 @@ i.icon.icon-room {
   background: linear-gradient(to bottom, rgba(0, 255, 255, .75) 0, rgba(255, 255, 255, .75) 100%),
   url(https://d1yn1kh78jj1rr.cloudfront.net/previews2/greyandwhitepolkadots-05-091815-575.jpg) repeat-x;
 }
-.rs-skip-button{
+#rs-skip-button{
   background: linear-gradient(to bottom, rgba(0, 255, 255, .75) 0, rgba(255, 255, 255, .75) 100%),
   url(https://d1yn1kh78jj1rr.cloudfront.net/previews2/greyandwhitepolkadots-05-091815-575.jpg) repeat-x;
 }
-.history-button{
+#history-button{
   background: linear-gradient(to bottom, rgba(0, 255, 255, .75) 0, rgba(255, 255, 255, .75) 100%),
   url(https://d1yn1kh78jj1rr.cloudfront.net/previews2/greyandwhitepolkadots-05-091815-575.jpg) repeat-x;
 }
-.chat-button{
+#chat-button{
   background: linear-gradient(to bottom, rgba(0, 255, 255, .75) 0, rgba(255, 255, 255, .75) 100%),
   url(https://d1yn1kh78jj1rr.cloudfront.net/previews2/greyandwhitepolkadots-05-091815-575.jpg) repeat-x;
 }
