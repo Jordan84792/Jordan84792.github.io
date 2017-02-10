@@ -28,5 +28,5 @@ i.icon.icon-room {
   width: 100px;
   height: 100px;
   background: linear-gradient(rgba(0,255,255,.5), rgba(255,255,255,.5)), 
-  url(https://d1yn1kh78jj1rr.cloudfront.net/previews2/greyandwhitepolkadots-05-091815-575.jpg)
+  url(https://d1yn1kh78jj1rr.cloudfront.net/previews2/greyandwhitepolkadots-05-091815-575.jpg) repeat-y;
 }
