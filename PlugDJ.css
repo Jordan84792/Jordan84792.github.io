@@ -52,6 +52,6 @@ i.icon.icon-room {
 /* App Header Text */
 
 #room-name .bar-value {
-    color: rgba(0, 0, 0);
+    color: black;
     font-weight: bold;
     font-family: 'Orbitron', Orbitron-Regular;}
