@@ -72,6 +72,9 @@ i.icon.icon-room {
 .cm.log {
     background: linear-gradient(to right, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);!important
 }
+#chat-input-form {
+    background: rgba(53,6,8,1); !important
+    
     
 /* Footer */
 
