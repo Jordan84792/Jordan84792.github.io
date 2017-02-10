@@ -81,8 +81,11 @@ i.icon.icon-room {
     border-radius: 25px;
     background: rgba(53,6,8,1); !important
     padding: 20px;
-    width: 100px;
-    height: 10px;        
+    width: 250px;
+    height: 15px;        
+}
+#chat-input-field{
+    color: white;
 }
     
 /* Footer */
