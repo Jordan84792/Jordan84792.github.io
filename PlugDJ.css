@@ -1,13 +1,11 @@
 @import url("https://jordan84792.github.io/PlugDJusers.css");
 @import url("https://fonts.googleapis.com/css?family=Orbitron");
 @import url("https://fonts.googleapis.com/css?family=Squada+One");
+
 /* ------------------------------ Interface ------------------------------ */
 
 /* Room Icons */
-
-/*.icon {
-    background-image: url(https://cdn.tfs-network.com/plug/img/icons.png)
-} */
+/*.icon { background-image: url(https://cdn.tfs-network.com/plug/img/icons.png)} */
 
 /* Room Icon */
 
@@ -73,7 +71,9 @@ i.icon.icon-room {
 .button{
   background: linear-gradient(to bottom, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);
 }
-#button .icon.icon-volume-on
+#button .icon.icon-volume-on{
+  background: none !important;
+}
 #button .icon.icon-volume-off{
   background: none !important;  
 }
@@ -84,7 +84,6 @@ i.icon.icon-room {
     color: white;
     font-weight: bold;
     font-family: 'Orbitron', Orbitron-Regular;} 
-
 
 /* Chat */
 
@@ -115,6 +114,7 @@ i.icon.icon-room {
     width: 325px;
     height: 20px;         
 }
+
 /* Footer */
 
 #footer {
