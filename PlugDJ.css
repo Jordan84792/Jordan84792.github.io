@@ -66,20 +66,20 @@ i.icon.icon-room {
 /* Chat */
 
 #room .app-right {
-    background: rgba(9, 9, 40, 0.75);!important
+    background: rgba(20, 20, 91);!important
 }
 #room .app-right .cm.log {
-    background: rgba(9, 9, 40, 0.75);!important
+    background: rgba(20, 20, 91);!important
 }
 #room .app-right .cm.message {
-    background: rgba(9, 9, 40, 0.75);!important 
+    background: rgba(20, 20, 91);!important 
 }
 #msg{
-    background: rgba(9, 9, 40, 0.75);!important
+    background: rgba(20, 20, 91);!important
 }
 #chat-input {
     border-radius: 25px;
-    background: #14145b; !important
+    background: rgba(9, 9, 40, 0.75); !important
     padding: 20px;
     width: 325px;
     height: 20px;        
