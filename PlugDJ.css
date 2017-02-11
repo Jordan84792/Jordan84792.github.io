@@ -65,23 +65,23 @@ i.icon.icon-room {
 /* Chat */
 
 #room .app-right {
-     background: linear-gradient(to bottom, rgba(0, 255, 255, .75) 0, rgba(255, 255, 255, .75) 100%),
+     background: rgba(255,255,255,.1),
      url(http://www.solidbackgrounds.com/images/2560x1440/2560x1440-black-solid-color-background.jpg) repeat-x;
 }
 #room .app-right .cm.log {
-   background: rgba(53,6,8,.1)
-   url() no-repeat;
+    background: rgba(255,255,255,.1),
+    url(http://www.solidbackgrounds.com/images/2560x1440/2560x1440-black-solid-color-background.jpg) repeat-x;
 }
 #room .app-right .cm.message {
-   background: linear-gradient(to bottom, rgba(0, 255, 255, .75) 0, rgba(255, 255, 255, .75) 100%),
+   background: rgba(255,255,255,.1),
    url(http://www.solidbackgrounds.com/images/2560x1440/2560x1440-black-solid-color-background.jpg) repeat-x;
 }
 #room .app-right .cm.moderation {
-   background: linear-gradient(to bottom, rgba(0, 255, 255, .75) 0, rgba(255, 255, 255, .75) 100%),
+   background: rgba(255,255,255,.1),
    url(http://www.solidbackgrounds.com/images/2560x1440/2560x1440-black-solid-color-background.jpg) repeat-x;
 }
 #msg{
-   background: linear-gradient(to bottom, rgba(0, 255, 255, .75) 0, rgba(255, 255, 255, .75) 100%),
+   background: rgba(255,255,255,.1),
    url(http://www.solidbackgrounds.com/images/2560x1440/2560x1440-black-solid-color-background.jpg) repeat-x;
 }
 /*#chat-input {
