@@ -65,16 +65,16 @@ i.icon.icon-room {
 /* Chat */
 
 #room .app-right {
-    background: linear-gradient(to right, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);!important
+    background: rgba(53,6,8,0.1);!important
 }
 #room .app-right .cm.log {
-    background: linear-gradient(to right, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);!important
+    background: rgba(53,6,8,0.1);!important
 }
 #room .app-right .cm.message {
-    background: linear-gradient(to right, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);!important 
+    background: rgba(53,6,8,0.1);!important
 }
 #msg{
-    background: linear-gradient(to right, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);!important
+    background: rgba(53,6,8,0.1);!important
 }
 /*#chat-input {
     border-radius: 25px;
