@@ -35,20 +35,20 @@ i.icon.icon-room {
 /* App-Header */
 
 .app-header{
-    background: rgba(9, 9, 40, 0.60);
+    background: rgba(9, 9, 40, 0.75);
 }
 #rs-skip-button {
-   background: rgba(9, 9, 40, 0.60);
+   background: rgba(9, 9, 40, 0.75)!important;
 }
 
 #history-button{
-   background: rgba(9, 9, 40, 0.60);
+   background: rgba(9, 9, 40, 0.75);
 }
 #chat-button{
-   background: rgba(9, 9, 40, 0.60);
+   background: rgba(9, 9, 40, 0.75);
 }
 .button{
-  background: rgba(9, 9, 40, 0.60);
+  background: rgba(9, 9, 40, 0.75);
 }
 #button .icon.icon-volume-on
 #button .icon.icon-volume-off{
@@ -66,20 +66,20 @@ i.icon.icon-room {
 /* Chat */
 
 #room .app-right {
-    background: rgba(9, 9, 40, 0.60);!important
+    background: rgba(9, 9, 40, 0.75);!important
 }
 #room .app-right .cm.log {
-    background: rgba(9, 9, 40, 0.60);!important
+    background: rgba(9, 9, 40, 0.75);!important
 }
 #room .app-right .cm.message {
-    background: rgba(9, 9, 40, 0.60);!important 
+    background: rgba(9, 9, 40, 0.75);!important 
 }
 #msg{
-    background: rgba(9, 9, 40, 0.60);!important
+    background: rgba(9, 9, 40, 0.75);!important
 }
 #chat-input {
     border-radius: 25px;
-    background: rgba(9, 9, 40, 0.60); !important
+    background: #14145b; !important
     padding: 20px;
     width: 325px;
     height: 20px;        
@@ -87,7 +87,7 @@ i.icon.icon-room {
 /* Footer */
 
 #footer {
-  background: rgba(9, 9, 40, 0.60);
+  background: rgba(9, 9, 40, 0.75);
 }
 
     
