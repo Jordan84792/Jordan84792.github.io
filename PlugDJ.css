@@ -31,6 +31,31 @@ i.icon.icon-room {
    background-size: 65%;
  }
 
+/* Room Name | Hosted By */
+
+#room-bar * {
+    font-weight: lighter!important
+}
+#room-bar span {
+    font-size: 20px!important
+}
+#room-bar:hover>#room-name,
+#room-bar>#room-host {
+    opacity: 0!important;
+    transition: opacity .25s!important
+}
+#room-bar:hover>#room-host,
+#room-bar>#room-name {
+    opacity: 1!important;
+    transition: opacity .25s!important;
+    transition-delay: .25s!important
+}
+#room-bar>#room-name {
+    margin-top: 7px!important
+}
+#room-bar>#room-host {
+    margin-top: -15px!important
+}
 /* App-Header */
 
 .app-header{
