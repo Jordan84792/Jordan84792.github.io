@@ -1,4 +1,3 @@
-
 @import url("https://jordan84792.github.io/PlugDJusers.css");
 @import url("https://fonts.googleapis.com/css?family=Orbitron");
 @import url("https://fonts.googleapis.com/css?family=Squada+One");
@@ -33,26 +32,26 @@ i.icon.icon-room {
  }
 
 /* App-Header */
-
+103, 10, 10 
 .app-header{
-    background: rgba(9, 9, 40, 0.90);
+    background: rgba(103, 10, 10,.95);
 }
 #rs-skip-button {
-   background: rgba(9, 9, 40, 0.90)!important;
+  background: rgba(103, 10, 10,.95) !important;
 }
 
 #history-button{
-   background: rgba(9, 9, 40, 0.90);
+   background: rgba(103, 10, 10,.95);
 }
 #chat-button{
-   background: rgba(9, 9, 40, 0.90);
+   background: rgba(103, 10, 10,.95);
 }
 .button{
-  background: rgba(9, 9, 40, 0.90);
+  background: rgba(103, 10, 10,.95);
 }
 #button .icon.icon-volume-on
 #button .icon.icon-volume-off{
-  background-color: none !important;  
+  background: none !important;  
 }
 
 /* App Header Text */
@@ -66,28 +65,26 @@ i.icon.icon-room {
 /* Chat */
 
 #room .app-right {
-    background: rgba(20, 20, 91,0.90);!important
+    background: rgba(103, 10, 10,.1);
 }
 #room .app-right .cm.log {
-    background: rgba(20, 20, 91,0.90);!important
+    background: rgba(103, 10, 10,.1);
 }
 #room .app-right .cm.message {
-    background: rgba(20, 20, 91,.90);!important 
+    background: rgba(103, 10, 10,.1);
 }
 #msg{
-    background: rgba(20, 20, 91,.90);!important
+    background: rgba(103, 10, 10,.1);
 }
 #chat-input {
     border-radius: 25px;
-    background: rgba(9, 9, 40, 0.90); !important
+    background: rgba(53,6,8,1); !important
     padding: 20px;
-    width: 325px;
+    width: 350px;
     height: 20px;        
 }
 /* Footer */
 
 #footer {
-  background: rgba(9, 9, 40, 0.90);
+  background: background: rgba(103, 10, 10,.95);
 }
-
-    
