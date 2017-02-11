@@ -65,24 +65,24 @@ i.icon.icon-room {
 /* Chat */
 
 #room .app-right {
-   background: rgba(53,6,8,.1)!important,
+   background: rgba(53,6,8,.1),
    url(http://www.solidbackgrounds.com/images/2560x1440/2560x1440-black-solid-color-background.jpg) no-repeat;
     
 }
 #room .app-right .cm.log {
-   background: rgba(53,6,8,.1)!important,
+   background: rgba(53,6,8,.1)
    url(http://www.solidbackgrounds.com/images/2560x1440/2560x1440-black-solid-color-background.jpg) no-repeat;
 }
 #room .app-right .cm.message {
-   background: rgba(53,6,8,.1)!important,
+   background: rgba(53,6,8,.1),
    url(http://www.solidbackgrounds.com/images/2560x1440/2560x1440-black-solid-color-background.jpg) no-repeat;
 }
 #room .app-right .cm.moderation {
-   background: rgba(53,6,8,.1)!important,
+   background: rgba(53,6,8,.1),
    url(http://www.solidbackgrounds.com/images/2560x1440/2560x1440-black-solid-color-background.jpg) no-repeat;
 }
 #msg{
-   background: rgba(53,6,8,.1)!important,
+   background: rgba(53,6,8,.1),
    url(http://www.solidbackgrounds.com/images/2560x1440/2560x1440-black-solid-color-background.jpg) no-repeat;
 }
 /*#chat-input {
