@@ -107,8 +107,8 @@ i.icon.icon-room {
 #chat-input {
     border-radius: 25px;
     background: rgba(53,6,8,1) !important; 
-    width: 0px;
-    height: 0px;         
+    width: 290px;
+    height: 26px;         
 }
 
 /* Footer */
