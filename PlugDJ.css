@@ -65,16 +65,16 @@ i.icon.icon-room {
 /* Chat */
 
 #room .app-right {
-    background: rgba(53,6,8,0.1);!important
+    background: rgba(53,6,8,.1)!important;
 }
 #room .app-right .cm.log {
-    background: rgba(53,6,8,0.1);!important
+    background: rgba(53,6,8,.1)!important;
 }
 #room .app-right .cm.message {
-    background: rgba(53,6,8,0.1);!important
+    background: rgba(53,6,8,.1)!important;
 }
 #msg{
-    background: rgba(53,6,8,0.1);!important
+    background: rgba(53,6,8,.1)!important;
 }
 /*#chat-input {
     border-radius: 25px;
