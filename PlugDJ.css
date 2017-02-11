@@ -32,22 +32,22 @@ i.icon.icon-room {
  }
 
 /* App-Header */
-103, 10, 10 
+
 .app-header{
-    background: rgba(103, 10, 10,.95)!important;
+    background: linear-gradient(to bottom, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);
 }
 #rs-skip-button {
-  background: rgba(103, 10, 10,.95)!important;
+   background: linear-gradient(to bottom, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%)!important;
 }
 
 #history-button{
-   background: rgba(103, 10, 10,.95)!important;
+   background: linear-gradient(to bottom, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);
 }
 #chat-button{
-   background: rgba(103, 10, 10,.95)!important;
+   background: linear-gradient(to bottom, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);
 }
 .button{
-  background: rgba(103, 10, 10,.95!important;
+  background: linear-gradient(to bottom, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);
 }
 #button .icon.icon-volume-on
 #button .icon.icon-volume-off{
@@ -65,20 +65,20 @@ i.icon.icon-room {
 /* Chat */
 
 #room .app-right {
-    background: rgba(103,10,10,.1)!important;
+    background: linear-gradient(to right, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);
 }
 #room .app-right .cm.log {
-    background: rgba(103,10,10,.1)!important;
+    background: linear-gradient(to right, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);
 }
 #room .app-right .cm.message {
-    background: rgba(103,10,10,.1)!important;
+    background: linear-gradient(to right, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);
 }
 #msg{
-    background: rgba(103,10,10,.1)!important;
+    background: linear-gradient(to right, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);
 }
 #chat-input {
     border-radius: 25px;
-    background: rgba(53,6,8,1) !important;
+    background: rgba(53,6,8,1);
     padding: 20px;
     width: 350px;
     height: 20px;        
@@ -86,5 +86,5 @@ i.icon.icon-room {
 /* Footer */
 
 #footer {
-  background: background: rgba(103,10,10,.95)!important;
+  background: linear-gradient(to bottom, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);
 }
