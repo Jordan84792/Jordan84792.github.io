@@ -34,7 +34,7 @@ i.icon.icon-room {
 /* App-Header */
 
 .app-header{
-    background: linear-gradient(to bottom, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);
+    background-: linear-gradient(to bottom, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);
 }
 #rs-skip-button {
    background: linear-gradient(to bottom, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%) !important;
@@ -65,23 +65,23 @@ i.icon.icon-room {
 /* Chat */
 
 #room .app-right {
-     background: rgba(255,255,255,.1),
+     background-color: rgba(255,255,255,.1),
      url(http://www.solidbackgrounds.com/images/2560x1440/2560x1440-black-solid-color-background.jpg) repeat-x;
 }
 #room .app-right .cm.log {
-    background: rgba(255,255,255,.1),
+    background-color: rgba(255,255,255,.1),
     url(http://www.solidbackgrounds.com/images/2560x1440/2560x1440-black-solid-color-background.jpg) repeat-x;
 }
 #room .app-right .cm.message {
-   background: rgba(255,255,255,.1),
+   background-color: rgba(255,255,255,.1),
    url(http://www.solidbackgrounds.com/images/2560x1440/2560x1440-black-solid-color-background.jpg) repeat-x;
 }
 #room .app-right .cm.moderation {
-   background: rgba(255,255,255,.1),
+   background-color: rgba(255,255,255,.1),
    url(http://www.solidbackgrounds.com/images/2560x1440/2560x1440-black-solid-color-background.jpg) repeat-x;
 }
 #msg{
-   background: rgba(255,255,255,.1),
+   background-color: rgba(255,255,255,.1),
    url(http://www.solidbackgrounds.com/images/2560x1440/2560x1440-black-solid-color-background.jpg) repeat-x;
 }
 /*#chat-input {
