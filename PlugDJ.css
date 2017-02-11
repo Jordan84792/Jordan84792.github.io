@@ -35,24 +35,24 @@ i.icon.icon-room {
 /* App-Header */
 
 .app-header{
-    background: rgb(9, 9, 40,.75);
+    background-color: rgb(9, 9, 40,.75);
 }
 #rs-skip-button {
-   background: rgb(9, 9, 40,.75);
+   background-color: rgb(9, 9, 40,.75);
 }
 
 #history-button{
-   background: rgb(9, 9, 40,.75);
+   background-color: rgb(9, 9, 40,.75);
 }
 #chat-button{
-   background: rgb(9, 9, 40,.75);
+   background-color: rgb(9, 9, 40,.75);
 }
 .button{
-  background: rgb(9, 9, 40,.75);
+  background-color: rgb(9, 9, 40,.75);
 }
 #button .icon.icon-volume-on
 #button .icon.icon-volume-off{
-  background: none !important;  
+  background-color: none !important;  
 }
 
 /* App Header Text */
@@ -66,20 +66,20 @@ i.icon.icon-room {
 /* Chat */
 
 #room .app-right {
-    background: rgb(9, 9, 40,.75);!important
+    background-color: rgb(9, 9, 40,.75);!important
 }
 #room .app-right .cm.log {
-    background: rgb(9, 9, 40,.75);!important
+    background-color: rgb(9, 9, 40,.75);!important
 }
 #room .app-right .cm.message {
-    background: rgb(9, 9, 40,.75);!important 
+    background-color: rgb(9, 9, 40,.75);!important 
 }
 #msg{
-    background: rgb(9, 9, 40,.75);!important
+    background-color: rgb(9, 9, 40,.75);!important
 }
 #chat-input {
     border-radius: 25px;
-    background: rgb(20, 20, 91,.75) !important
+    background-color: rgb(20, 20, 91,.75) !important
     padding: 20px;
     width: 325px;
     height: 20px;        
@@ -87,7 +87,7 @@ i.icon.icon-room {
 /* Footer */
 
 #footer {
-  background: rgb(9, 9, 40,.75);
+  background-color: rgb(9, 9, 40,.75);
 }
 
     
