@@ -1,7 +1,6 @@
 @import url("https://jordan84792.github.io/PlugDJusers.css");
 @import url("https://fonts.googleapis.com/css?family=Orbitron");
 @import url("https://fonts.googleapis.com/css?family=Squada+One");
-@import url("https://fonts.googleapis.com/css?family=Luckiest+Guy");
 /* ------------------------------ Interface ------------------------------ */
 
 /* Room Icons */
@@ -81,10 +80,10 @@ i.icon.icon-room {
 
 /* App Header Text */
 
-/*#room-name .bar-value {
+#room-name .bar-value {
     color: white;
     font-weight: bold;
-    font-family: 'Luckiest Guy', LuckiestGuy-Regular;} */
+    font-family: 'Orbitron', Orbitron-Regular;} 
 
 
 /* Chat */
@@ -109,13 +108,13 @@ i.icon.icon-room {
    background: linear-gradient(to bottom, rgba(53,6,8,.4) 0, rgba(53,6,8,.4) 100%),
    url(http://www.howtogeek.com/wp-content/uploads/2012/12/Plain-Black-Wallpaper.png) !important;
 }
-/*#chat-input {
+#chat-input {
     border-radius: 25px;
-    background: rgba(53,6,8,1); !important
+    background: rgba(53,6,8,1) !important; 
     padding: 20px;
     width: 325px;
     height: 20px;         
-}*/
+}
 /* Footer */
 
 #footer {
