@@ -73,6 +73,9 @@ i.icon.icon-room {
 #room .app-right .cm.message {
     background: rgba(53,6,8,.1)!important;
 }
+#room .app-right .cm.moderation {
+    background: rgba(53,6,8,.1)!important;
+}
 #msg{
     background: rgba(53,6,8,.1)!important;
 }
