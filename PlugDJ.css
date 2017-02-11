@@ -76,13 +76,13 @@ i.icon.icon-room {
 #msg{
     background: linear-gradient(to right, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%);!important
 }
-#chat-input {
+/*#chat-input {
     border-radius: 25px;
     background: rgba(53,6,8,1); !important
     padding: 20px;
     width: 325px;
-    height: 20px;        
-}
+    height: 20px;         
+}*/
 /* Footer */
 
 #footer {
