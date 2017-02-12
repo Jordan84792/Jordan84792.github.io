@@ -4,6 +4,11 @@
 
 /* ------------------------------ Interface ------------------------------ */
 
+/* Remove badge background */
+.badge-box {
+    background: transparent !important;
+}
+
 /* Room Icons */
 /*.icon { background-image: url(https://cdn.tfs-network.com/plug/img/icons.png)} */
 
