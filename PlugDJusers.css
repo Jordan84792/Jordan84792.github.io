@@ -1,4 +1,13 @@
- /* badges */
+/* badges */
+/*  Mǟɖɖɨɛ [5382369] */
+#chat-messages .fromID-5382369 .badge-box i,
+#chat-messages  .id-5382369 .badge-box i,
+#user-rollover.id-5382369 .badge-box > i.bdg
+
+/* Gay Peter Pan [22954907] */
+#chat-messages .fromID-22954907 .badge-box i,
+#chat-messages  .id-22954907 .badge-box i,
+#user-rollover.id-22954907 .badge-box > i.bdg
 
 /* Jøґ∂αη†♄εℙαηḓα [22670452] */
 #chat-messages .fromID-22670452 .badge-box i,
@@ -16,6 +25,19 @@
 }
        
 /* Images Area */
+
+/*  Mǟɖɖɨɛ [5382369] */
+#chat-messages .fromID-5382369.badge-box i,
+#chat-messages .id-5382369.badge-box i,
+#user-rollover.id-5382369.badge-box > i.bdg{
+    background-image: url(http://i.imgur.com/gN63zbV.png);
+} 
+/*  Gay Peter Pan [22954907 ] */
+#chat-messages .fromID-22954907 .badge-box i,
+#chat-messages .id-22954907 .badge-box i,
+#user-rollover.id-22954907 .badge-box > i.bdg{
+    background-image: url(http://i.imgur.com/dtTGOx7.png);
+} 
 
 /* Jøґ∂αη†♄εℙαηḓα [22670452] */
 #chat-messages .fromID-22670452 .badge-box i,
