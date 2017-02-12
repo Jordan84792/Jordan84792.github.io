@@ -1,13 +1,26 @@
+
 /* badges */
-[data-cid^="22670452-"] i.bdg {
-    background: url("http://i.imgur.com/3E9dL4M.png") !important;
+
+/* Jøґ∂αη†♄εℙαηḓα [22670452] */
+#chat-messages .fromID-22670452 .badge-box i,
+#chat-messages  .id-22670452 .badge-box i,
+#user-rollover.id-22670452 .badge-box > i.bdg{
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 20px;
+    background-position: initial;
+    background-repeat: no-repeat !important
 }
-i.bdg.large.bdg-bt-g.g,
-i.bdg.large.bdg-ea-g.g,
-i.bdg.large.bdg-og-g.g,
-i.bdg.large.bdg-ss-g.g,
-    width: 30px;
-    height: 30px;
-	position: relative !important;
-    top: 55px !important;
+       
+/* Images Area */
+
+/* Jøґ∂αη†♄εℙαηḓα [22670452] */
+#chat-messages .fromID-22670452 .badge-box i,
+#chat-messages .id-22670452 .badge-box i,
+#user-rollover.id-22670452 .badge-box > i.bdg{
+    background-image: url(http://i.imgur.com/3E9dL4M.png);
 }
