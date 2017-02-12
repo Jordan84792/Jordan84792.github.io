@@ -1,5 +1,9 @@
 
 /* badges */
+/* Arkham Bot [17969387] */
+#chat-messages .fromID-17969387 .badge-box i,
+#chat-messages  .id-17969387 .badge-box i,
+#user-rollover.id-17969387 .badge-box. > i.bdg,
 
 /* Jøґ∂αη†♄εℙαηḓα [22670452] */
 #chat-messages .fromID-22670452 .badge-box i,
@@ -18,9 +22,15 @@
        
 /* Images Area */
 
+/* ArkhamBot [17969387] */
+#chat-messages .fromID-17969387 .badge-box i,
+#chat-messages .id-17969387 .badge-box i,
+#user-rollover.id-17969387 .badge-box > i.bdg {
+    background-image: url(http://i.imgur.com/i9Gk5FF.png);
+}
 /* Jøґ∂αη†♄εℙαηḓα [22670452] */
 #chat-messages .fromID-22670452 .badge-box i,
 #chat-messages .id-22670452 .badge-box i,
-#user-rollover.id-22670452 .badge-box.clickable > i.bdg{
+#user-rollover.id-22670452 .badge-box > i.bdg{
     background-image: url(http://i.imgur.com/3E9dL4M.png);
 }
