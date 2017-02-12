@@ -4,7 +4,7 @@
 /* Jøґ∂αη†♄εℙαηḓα [22670452] */
 #chat-messages .fromID-22670452 .badge-box i,
 #chat-messages  .id-22670452 .badge-box i,
-#user-rollover.id-22670452 .badge-box.clickable > i.bdg{
+#user-rollover.id-22670452 .badge-box. > i.bdg{
     background-size: cover;
     width: 100%;
     height: 100%;
