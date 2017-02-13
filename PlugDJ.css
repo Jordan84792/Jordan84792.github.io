@@ -148,23 +148,7 @@ i.icon.icon-room {
 #chat-messages .cm:not(.log):hover {
 	transform: translate(5px, -5px);
 	background-color: rgba(0, 20, 61, 0.50);
-}
-/*additional colors*/
-#chat-messages .cm.emote:hover {
-	background-color: rgba(174, 69, 189, 0.3) !important;
-}
-#chat-messages .cm.user-action:hover{
-	background-color: rgba(246, 255, 116, 0.1);	
-}
-#chat-messages  .cm.moderation:hover{
-    background-color: rgba(172, 118, 255, 0.1);		
-}
-/*p3 chat {can't work with this} */
-#chat-messages .message:hover{
-	transform: translate(5px, -5px);
-	background-color: rgba(0, 20, 61, 0.60);
-}
-}    
+} 
 #chat-input,
 #import-youtube .button,
 #import-youtube .youtube-input,
