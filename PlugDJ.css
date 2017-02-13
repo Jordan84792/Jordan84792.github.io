@@ -150,9 +150,11 @@ i.icon.icon-room {
     -webkit-transition: 100ms linear 50ms;
     border-left: #0080FF 3px solid;
     background: rgba(0, 77, 255, 0.15);
-	padding-left: 3px;
+    padding-left: 3px;
     text-decoration: none;
     transition: 100ms linear 50ms;
+    transform: translate(5px, -5px);
+    background-color: rgba(0, 20, 61, 0.60);
 }
 #chat .moderation:hover {
      -moz-transition: 100ms linear 50ms;
@@ -162,6 +164,8 @@ i.icon.icon-room {
       padding-left: 3px;
       text-decoration: none;
       transition: 100ms linear 50ms;
+      transform: translate(5px, -5px);
+      background-color: rgba(0, 20, 61, 0.60);
 }    
 #chat-input,
 #import-youtube .button,
