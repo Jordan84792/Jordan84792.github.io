@@ -144,28 +144,26 @@ i.icon.icon-room {
    background: -moz-linear-gradient(-90deg, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%); /* For Firefox 3.6 to 15 */
    background: linear-gradient(-90deg, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%); /* Standard syntax */
 }
-#chat .message:hover, #chat .emote:hover, #chat .update:hover {
-    -moz-transition: 100ms linear 50ms;
-    -o-transition: 100ms linear 50ms;
-    -webkit-transition: 100ms linear 50ms;
-    border-left: #0080FF 3px solid;
-    background: rgba(0, 77, 255, 0.15);
-    padding-left: 3px;
-    text-decoration: none;
-    transition: 100ms linear 50ms;
-    transform: translate(5px, -5px);
-    background-color: rgba(0, 20, 61, 0.60);
+/*hover chat*/
+#chat-messages .cm:not(.log):hover {
+	transform: translate(5px, -5px);
+	background-color: rgba(0, 20, 61, 0.50);
 }
-#chat .moderation:hover {
-     -moz-transition: 100ms linear 50ms;
-     -o-transition: 100ms linear 50ms;
-     -webkit-transition: 100ms linear 50ms;
-      border-left: #ac76ff 3px solid;
-      padding-left: 3px;
-      text-decoration: none;
-      transition: 100ms linear 50ms;
-      transform: translate(5px, -5px);
-      background-color: rgba(0, 20, 61, 0.60);
+/*additional colors*/
+#chat-messages .cm.emote:hover {
+	background-color: rgba(174, 69, 189, 0.3) !important;
+}
+#chat-messages .cm.user-action:hover{
+	background-color: rgba(246, 255, 116, 0.1);	
+}
+#chat-messages  .cm.moderation:hover{
+    background-color: rgba(172, 118, 255, 0.1);		
+}
+/*p3 chat {can't work with this} */
+#chat-messages .message:hover{
+	transform: translate(5px, -5px);
+	background-color: rgba(0, 20, 61, 0.60);
+}
 }    
 #chat-input,
 #import-youtube .button,
