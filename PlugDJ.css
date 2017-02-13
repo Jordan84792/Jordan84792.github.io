@@ -143,8 +143,26 @@ i.icon.icon-room {
    background: -o-linear-gradient(-90deg, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%); /* For Opera 11.1 to 12.0 */
    background: -moz-linear-gradient(-90deg, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%); /* For Firefox 3.6 to 15 */
    background: linear-gradient(-90deg, rgba(152,0,0,1) 0, rgba(53,6,8,1) 100%); /* Standard syntax */
-    
 }
+#chat .message:hover, #chat .emote:hover, #chat .update:hover {
+    -moz-transition: 100ms linear 50ms;
+    -o-transition: 100ms linear 50ms;
+    -webkit-transition: 100ms linear 50ms;
+    border-left: #0080FF 3px solid;
+    background: rgba(0, 77, 255, 0.15);
+	padding-left: 3px;
+    text-decoration: none;
+    transition: 100ms linear 50ms;
+}
+#chat .moderation:hover {
+     -moz-transition: 100ms linear 50ms;
+     -o-transition: 100ms linear 50ms;
+     -webkit-transition: 100ms linear 50ms;
+      border-left: #ac76ff 3px solid;
+      padding-left: 3px;
+      text-decoration: none;
+      transition: 100ms linear 50ms;
+}    
 #chat-input,
 #import-youtube .button,
 #import-youtube .youtube-input,
