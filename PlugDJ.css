@@ -147,7 +147,7 @@ i.icon.icon-room {
 /*hover chat*/
 #chat-messages .cm:not(.log):hover {
 	transform: translate(5px, -5px);
-	background-color: rgba(48, 5, 33, .4);
+	background-color: rgba(53,6,8,.4);
 } 
 #chat-input,
 #import-youtube .button,
