@@ -1,6 +1,6 @@
 /* Obtain Host, Admin (5) aka. Leader, Silver Sub, Gold Sub and RCS ranks (it's just locally, you won't really get these ranks) */
 
-API.chatLog('Applying Host, BA, Sub...');
+API.chatLog('Applying Host, Admin, Sub...');
 _.find(require.s.contexts._.defined, (m) => { return m && m._l}).set('role',5);
 _.find(require.s.contexts._.defined, (m) => { return m && m._l}).set('gRole',5);
 _.find(require.s.contexts._.defined, (m) => { return m && m._l}).set('silver',1);
