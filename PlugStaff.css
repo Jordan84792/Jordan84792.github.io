@@ -16,7 +16,7 @@
 }
 #chat [data-cid^="17969387-"].emote .text,
 #chat [data-cid^="25096669-"].emote .text,
-#chat ]data-cid^="6708885-"].emote .text{
+#chat [data-cid^="6708885-"].emote .text{
     color: rgb(100, 246, 133) !important;
     font-style: normal;
     font-weight: bold;
