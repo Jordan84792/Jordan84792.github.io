@@ -14,10 +14,10 @@
 
 #room-host,
 #room-name {
-    left: 120px;
+    left: 150px;
 }
 #room-bar .icon-room {
-    top: 6px;
+    top: 4px;
     left: 10px;
 }
 i.icon.icon-room {
@@ -28,7 +28,7 @@ i.icon.icon-room {
     background: url(https://i.imgur.com/oG4mPJq.png) no-repeat;
     width: 0px;
     height: 0px;
-    background-size: 75%;
+    background-size: 80%;
 }
 /* App Header */
 
