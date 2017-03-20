@@ -10,6 +10,9 @@
 .room-background {
     background-image: url(http://i.imgur.com/kHhJQxx.png) !important;
 }
+#playback .background {
+    display: none !important;
+}
 /* Room Icon */
 
 #room-host,
