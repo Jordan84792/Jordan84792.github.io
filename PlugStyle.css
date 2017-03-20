@@ -15,6 +15,7 @@
 #room-host,
 #room-name {
     left: 120px;
+    right: 10px;
 }
 #room-bar .icon-room {
     top: 6px;
