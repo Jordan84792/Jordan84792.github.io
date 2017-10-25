@@ -1,0 +1,45 @@
+{
+    "room": "♫  ArkhamnNetwork ♫ ,
+    "author": "Created by - JordanThePanda",
+    "icon": null,
+    "css": null,
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": false,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": "#FF3D3F",
+        "cohost": "#FF4C42",
+        "manager": "#FFB042",
+        "bouncer": "#80A3DF",
+        "rdj": "#A084CC",
+        "subscriber": "#C1C100",
+        "silversubscriber": "#919191",
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": null,
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host":"https://i.imgur.com/aHxG2LB.png",
+        "cohost":"https://i.imgur.com/rL8YVET.png",
+        "manager":"https://i.imgur.com/YjBUJ7R.png",
+        "bouncer":"https://i.imgur.com/mY38qp4.png",
+        "rdj":"https://i.imgur.com/8AmO2y9.png",
+        "subscriber":"https://i.imgur.com/Kc5cBwE.png",
+        "silversubscriber": "https://i.imgur.com/2NHcBei.png"
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
